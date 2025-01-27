@@ -56,9 +56,9 @@ I actively participate in **Capture The Flag (CTF)** challenges, where I improve
 I’m always open to collaborating on exciting cybersecurity projects, learning opportunities, and contributions to open-source security tools.
 
 Feel free to connect with me on:
-- 💼 [LinkedIn](#)
+- 💼 LinkedIn - https://www.linkedin.com/in/abidul-kabir-abir-86b424313/
 - 🌐 [Personal Portfolio](#)
-- 📧 [Email me](#)
+- 📧 Email - abir.abidulkabir@gmail.com
 
 ---
 
