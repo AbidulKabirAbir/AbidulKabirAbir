@@ -31,7 +31,7 @@ A collection of Python and Bash scripts for penetration testing tasks, such as v
 - 🔧 Tools: Python, Metasploit, Burp Suite
 - 📖 [View Repository](#)
 
-### 2. **CTF Write-Ups**
+### 2. **Write-Ups**
 Detailed write-ups and solutions to various TryHackMe(Labs), PortSwigger(Labs) challenges I’ve solved, demonstrating my penetration testing and vulnerability assessment skills.
 
 - 🔧 Tools: Kali Linux, Metasploit, Burp Suite
