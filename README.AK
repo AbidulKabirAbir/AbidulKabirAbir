@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me:
-I'm **ABIDUL KABIR ABIR**, a **Cybersecurity student** and a **Certified Ethical Hacker** with a passion for securing digital environments. I specialize in **penetration testing**, **vulnerability assessment**, and **network security**. I am currently focusing on improving my skills and contributing to open-source security projects.
+I'm **ABIDUL KABIR ABIR**, a **Cybersecurity student** and a **Ethical Hacker** with a passion for securing digital environments. I specialize in **penetration testing**, **vulnerability assessment**, and **network security**. I am currently focusing on improving my skills and contributing to open-source security projects.
 
 I’ve recently completed a **Basic Python course** and have been certified. I'm now utilizing Python for scripting, automation, and penetration testing tasks.
 
@@ -32,24 +32,22 @@ A collection of Python and Bash scripts for penetration testing tasks, such as v
 - 📖 [View Repository](#)
 
 ### 2. **CTF Write-Ups**
-Detailed write-ups and solutions to various Capture The Flag (CTF) challenges I’ve solved, demonstrating my penetration testing and vulnerability assessment skills.
+Detailed write-ups and solutions to various TryHackMe(Labs), PortSwigger(Labs) challenges I’ve solved, demonstrating my penetration testing and vulnerability assessment skills.
 
 - 🔧 Tools: Kali Linux, Metasploit, Burp Suite
-- 📖 [View Repository](#)
 
 ### 3. **Network Security Configurations**
 Demonstrations of network security setups, including firewalls, VPNs, and intrusion detection systems (IDS) for secure network management.
 
 - 🔧 Tools: Nmap, Wireshark, Kali Linux
-- 📖 [View Repository](#)
 
 ---
 
 ## My Ethical Hacking Journey:
-I started my journey into cybersecurity with an interest in networking, which led me to earn my **CCNA certification**. As I deepened my knowledge in networking, I became more interested in **ethical hacking** and **penetration testing**. Today, I focus on finding vulnerabilities in digital systems and improving their security through responsible and legal means.
+I started my journey into cybersecurity with an interest in networking, which led me to earn my **CCNA Certification**. As I deepened my knowledge in networking, I became more interested in **Ethical Hacking** and **penetration testing**. Today, I focus on finding vulnerabilities in digital systems and improving their security through responsible and legal means.
 
-I actively participate in **Capture The Flag (CTF)** challenges, where I improve my hacking skills in a safe, competitive environment. These challenges have helped me master the tools and techniques required to identify security flaws in real-world applications and networks.
-
+I actively participate in **TryHackMe(Labs), PortSwigger(Labs)** challenges, where I improve my hacking skills in a safe, competitive environment. These challenges have helped me master the tools and techniques required to identify security flaws in real-world applications and networks.
+A Bug Bounty Winner regularly participates in platforms like HackerOne and Bugcrowd, and also offline discovering vulnerabilities in real-world applications while earning rewards and enhancing cybersecurity skills.
 ---
 
 ## Get in Touch:
